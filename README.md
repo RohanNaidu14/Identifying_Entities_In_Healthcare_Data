@@ -5,7 +5,7 @@ Note that _it is not explicitly mentioned_ in the dataset about the diseases and
 
 You can determine the disease name and its probable treatment from the dataset and list it out in the form of a table or a dictionary like this. 👇🏼
 
-![Model Output]([https://www.imghippo.com/i/dubb5843gRA.png](https://www.imghippo.com/i/dubb5843gRA.png))
+![Model Output](https://www.imghippo.com/i/dubb5843gRA.png)
 
 
 
